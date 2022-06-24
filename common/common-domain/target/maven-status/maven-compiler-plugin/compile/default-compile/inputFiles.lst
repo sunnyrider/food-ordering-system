@@ -1,0 +1,17 @@
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderStatus.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderApprovalStatus.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\ProductId.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\exception\DomainException.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\PaymentOrderStatus.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\Money.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\AggregateRoot.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\BaseEntity.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\DomainConstants.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\RestaurantId.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\RestaurantOrderStatus.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\event\DomainEvent.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\BaseId.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\PaymentStatus.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\event\publisher\DomainEventPublisher.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\CustomerId.java
+C:\udemy\MicroSrv-Kafka-SAGA\Sources\food-ordering-system-a\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderId.java
